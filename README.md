@@ -1,1 +1,3 @@
-# Brain-Tumor-segmentation-using-U-Net
+In this study, we explored how U-Net, a well-established deep learning architecture for biomedical image segmentation, can be adapted and fine-tuned for the specific task of brain tumor segmentation. Our implementation of U-Net is lightweight yet effective, capable of delivering accurate segmentation results without relying heavily on aggressive data augmentation techniques. This makes it particularly suitable for practical applications. The proposed network holds potential for use in medical settings, serving as a valuable second-opinion tool for trained physicians when analyzing MRI images.
+
+Skills : Deep learning, Tensorflow, keras, image processing, U-Net
